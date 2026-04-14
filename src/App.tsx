@@ -1,7 +1,7 @@
 import "./App.css";
 import { useGlobalState, setGlobalState } from "./useGlobalState";
 
-// ─── Shared key constants ────────────────────────────────────────────────────
+// ─── Shared key constants ───────────────────────────────────────────────────
 const KEYS = {
   counter: "counter",
   username: "username",
